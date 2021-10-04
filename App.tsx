@@ -14,7 +14,7 @@ import { Task } from "./components/Task";
 
 export default function App() {
   const [task, setTask] = useState("");
-  const [taskItems, setItems] = useState([]);
+  const [taskItems, setItems] = useState([] as Array<string>);
 
   const handleAddTask = () => {
     Keyboard.dismiss();
