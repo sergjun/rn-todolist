@@ -8,7 +8,7 @@ In this app you can create your to do list and clear them from the list as you c
 BUGS:
 </br></br>
 
-- Have some type never error on the taskItems useState, need to solve it
+- Have some type never error on the taskItems useState, need to solve it (solved)
 
 run the command with
 
